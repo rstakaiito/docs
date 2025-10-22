@@ -66,6 +66,17 @@
             ]
           }
         ]
+      },
+      {
+        "tab": "Pricing",
+        "groups": [
+          {
+            "group": "Pricing",
+            "pages": [
+              "api-reference/introduction"
+            ]
+          }
+        ]
       }
     ],
     "global": {
