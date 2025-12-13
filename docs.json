@@ -22,27 +22,17 @@
             ]
           },
           {
-            "group": "Customization",
+            "group": "Event Store",
             "pages": [
-              "essentials/settings",
-              "essentials/navigation"
+              "index",
+              "quickstart",
+              "development"
             ]
           },
           {
-            "group": "Writing content",
+            "group": "Analytics",
             "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/reusable-snippets"
-            ]
-          },
-          {
-            "group": "AI tools",
-            "pages": [
-              "ai-tools/cursor",
-              "ai-tools/claude-code",
-              "ai-tools/windsurf"
+              "Analytics/UserAnalytics"
             ]
           }
         ]
@@ -113,15 +103,15 @@
   },
   "contextual": {
     "options": [
-     "copy",
-     "view",
-     "chatgpt",
-     "claude",
-     "perplexity",
-     "mcp",
-     "cursor",
-     "vscode"
-   ]
+      "copy",
+      "view",
+      "chatgpt",
+      "claude",
+      "perplexity",
+      "mcp",
+      "cursor",
+      "vscode"
+    ]
   },
   "footer": {
     "socials": {
