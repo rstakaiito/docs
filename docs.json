@@ -34,6 +34,13 @@
             "pages": [
               "Analytics/UserAnalytics"
             ]
+          },
+          {
+            "group": "Counter",
+            "pages": [
+              "Counter/WriteCounter",
+              "Counter/UserStats"
+            ]
           }
         ]
       },
